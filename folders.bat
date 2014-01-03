@@ -1,0 +1,9 @@
+mkdir 1-new\
+mkdir 2-score\
+mkdir 3-score-games\
+mkdir 4-ambient\
+mkdir 5-8bit\
+mkdir 6-electro\
+mkdir 7-rap\
+mkdir 8-random\
+mkdir 9-ROCK\
